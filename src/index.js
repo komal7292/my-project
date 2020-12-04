@@ -6,7 +6,7 @@ import Demo from './Demo';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
- <Demo name ="gupta technical"/>,
+ <Demo name ="guptaa technical"/>,
   document.getElementById('root')
 );
 
